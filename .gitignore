@@ -1,0 +1,151 @@
+# 环境变量和敏感信息
+.env
+.env.local
+.env.production
+.env.development
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Conda环境
+.conda/
+
+# IDE和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 日志文件
+logs/
+*.log
+*.log.*
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 缓存
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Flask实例文件夹
+instance/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+*.temp
+
+# 备份文件
+*.bak
+*.backup
+
+# 操作系统
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 证书和密钥文件
+*.pem
+*.key
+*.crt
+*.cert
+
+# 配置备份
+config.backup.py
+settings.backup.py
+
+# 测试和覆盖率报告
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# 文档构建
+docs/_build/
+
+# PyBuilder
+target/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# 自定义忽略
+uploads/
+downloads/
+export/
+import/
