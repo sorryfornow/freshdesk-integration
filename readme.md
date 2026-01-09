@@ -723,13 +723,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Enhanced debugging capabilities
 - ✅ Added comprehensive field validation
 
-### v1.1.0 (2025-01-15)
+### v1.1.0 
 - Added Xero invoice auto-creation
 - Improved webhook security
 - Enhanced logging system
 - Added health check endpoints
 
-### v1.0.0 (2024-12-01)
+### v1.0.0 
 - Initial release
 - WordPress form integration
 - Freshdesk API integration
@@ -740,9 +740,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact Information
 
-- **Developer**: 1Cyber Computer Services
+- **Developer**: 1Cyber Pty Ltd
 - **Website**: https://1cyber.com.au
-- **Support**: support@1cyber.com.au
+- **Support**: siqing.zhang@1cyber.com.au
 - **Project Repository**: https://github.com/1cyber/freshdesk-integration
 
 ---
